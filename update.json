@@ -1,0 +1,21 @@
+{
+    "version": "0.3.48",
+    "package": "https://raw.githubusercontent.com/developerxpe/wpthemeupdate/main/devxpetema.zip",
+    "url": "https://raw.githubusercontent.com/developerxpe/wpthemeupdate/main",
+    "requires": "6.0",
+    "tested": "7.1",
+    "changelog": "- Ufak hatalar düzeltildi\r\n- Güncelleme yapısı güçlendilirdi",
+    "changelog_history": {
+        "0.3.48": {
+            "tarih": "09.10.2026 23:37",
+            "not": "- Ufak hatalar düzeltildi\r\n- Güncelleme yapısı güçlendilirdi"
+        },
+        "0.3.47": {
+            "tarih": "06.10.2026 07:35",
+            "not": "- Dil düzenlemeleri"
+        }
+    },
+    "published": "2026-10-09T21:37:15+00:00",
+    "child_package": "https://raw.githubusercontent.com/developerxpe/wpthemeupdate/main/devxpe-child.zip",
+    "child_version": "1.0.0"
+}
