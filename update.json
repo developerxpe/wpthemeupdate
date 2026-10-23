@@ -1,0 +1,21 @@
+{
+    "version": "0.3.68",
+    "package": "https://raw.githubusercontent.com/developerxpe/wpthemeupdate/main/devxpetema.zip",
+    "url": "https://raw.githubusercontent.com/developerxpe/wpthemeupdate/main",
+    "requires": "6.0",
+    "tested": "7.1",
+    "changelog": "",
+    "changelog_history": {
+        "0.3.68": {
+            "tarih": "23.10.2026 20:39",
+            "not": ""
+        },
+        "0.3.67": {
+            "tarih": "23.10.2026 10:23",
+            "not": "- iletisim formu & teklif formu düzeltildi"
+        }
+    },
+    "published": "2026-10-23T18:39:32+00:00",
+    "child_package": "https://raw.githubusercontent.com/developerxpe/wpthemeupdate/main/devxpe-child.zip",
+    "child_version": "1.0.0"
+}
